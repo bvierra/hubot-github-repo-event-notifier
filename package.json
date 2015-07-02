@@ -1,5 +1,5 @@
 {
-  "name": "hubot-github-repo-event-notifier-2",
+  "name": "hubot-github-repo-event-notifier2",
   "description": "Notifies about any available GitHub repo event via webhook (forked from patcon@gittip)",
   "version": "1.3.8",
   "author": "veverkap",

@@ -1,6 +1,8 @@
-# Hubot: hubot-github-repo-event-notifier
+# Hubot: hubot-github-repo-event-notifier2
 
 Notifies about any available GitHub repo event via webhook.
+
+Forked from [https://github.com/martinb3/hubot-github-repo-event-notifier](https://github.com/martinb3/hubot-github-repo-event-notifier) which was forked from [https://github.com/hubot-scripts/hubot-github-repo-event-notifier](https://github.com/hubot-scripts/hubot-github-repo-event-notifier), neither of which finished the project.
 
 See [`src/github-repo-event-notifier.coffee`](src/github-repo-event-notifier.coffee) for full documentation.
 
@@ -12,15 +14,15 @@ Add **hubot-github-repo-event-notifier** to your `package.json` file:
 "dependencies": {
   "hubot": ">= 2.5.1",
   "hubot-scripts": ">= 2.4.2",
-  "hubot-github-repo-event-notifier": ">= 0.0.0",
+  "hubot-github-repo-event-notifier2": ">= 0.0.0",
   "hubot-hipchat": "~2.5.1-5",
 }
 ```
 
-Add **hubot-github-repo-event-notifier** to your `external-scripts.json`:
+Add **hubot-github-repo-event-notifier2** to your `external-scripts.json`:
 
 ```json
-["hubot-github-repo-event-notifier"]
+["hubot-github-repo-event-notifier2"]
 ```
 
 Run `npm install`
